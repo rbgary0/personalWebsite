@@ -1,11 +1,16 @@
+import Navbar from "./components/Navbar"
+import About from "./components/About"
+import "./app.css"
+
+
 function App() {
 
 
   return (
     <div>
-      <p>Reagan's Website</p>
-      <p>Still being configured, come back later</p>
-      <p> Katie Ryan </p>
+      <Navbar />
+      <About />
+
     </div>
   )
 }

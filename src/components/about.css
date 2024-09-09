@@ -1,0 +1,28 @@
+.about {
+
+    align-items: center;
+    display: block;
+    text-align: center;
+
+    /*
+    border: solid;
+    border-color: #557C56;
+    background-color: #557C56;
+    border-width: 10px;
+    border-right: 1px;
+    border-left: 1px;*/
+}
+
+.headshot {
+    /*border-radius: 50%;
+    height: 150px;
+    width: 150px;    */
+    height: 10%;
+    border-radius: 50%;
+    width: 10%;
+
+}
+.text {
+    text-align: center;
+    font-size: 20px;
+}
