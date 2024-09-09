@@ -17,12 +17,23 @@
     /*border-radius: 50%;
     height: 150px;
     width: 150px;    */
-    height: 10%;
+    height: 30%;
     border-radius: 50%;
-    width: 10%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #557C56;
+    width: 30%;
+    margin-right: 50px;
 
 }
 .text {
     text-align: center;
     font-size: 20px;
+    width:700px;
+    border-style: solid;
+    border-radius: 2%;
+    padding: 15px 15px 15px 15px;
+    word-wrap: break-word;
+    display: flex;
+    margin: auto;
 }
