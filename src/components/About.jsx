@@ -10,7 +10,7 @@ function About() {
             <div className='text'>
                 <img className='headshot' alt="headshot" src={headshot}></img>
                 <p>Hi! My name is Reagan Gary and I am currently a junior at Virginia Tech.
-                    I am majoring in computer science with an interest in software development.
+                    I am Computer Science major with an interest in software development.
                     <br></br>
                     <br></br>
                     I built this website to share a little about myself and my computer science
