@@ -37,4 +37,5 @@
 
 .navbar-right .nav-links a:hover {
     color: #557C56;
+    font-weight: bold;  
 }

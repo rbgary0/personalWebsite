@@ -8,9 +8,21 @@ h3 {
     padding: 0;
 }
 
-img {
+.logo {
     width: 30%;
     height: 30%;
+}
+
+.swipafy {
+    margin-top: 15px;
+    width: 20%;
+    height: 20%;
+}
+
+.raspberry {
+    margin-top: 15px;
+    width: 40%;
+    height: 40%;
 }
 
 .projectList {
