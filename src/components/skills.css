@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    margin: 0;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 0;
+}
+
+img {
+    width: 60%;
+    height: 60%;
+}
+
+.logo {
+    width: 30%;
+    height: 30%;
+}
+
+.countainer {
+    align-items: center;
+    justify-content: space-between;
+    
+
+    font-size: 20px;
+    width: 700px;
+    border-style: solid;
+    border-radius: 2%;
+    padding: 15px 15px 15px 15px;
+    word-wrap: break-word;
+    margin: auto;
+}
+
+.skillList1 {
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    padding-left: 0;
+}
+
+.skillList2 {
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    padding-left: 0;
+
+}
+
+.skillList3 {
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+}
+
+.skillList1 li {
+    margin-right: 2rem;
+}
+.skillList2 li {
+    margin-right: 2rem;
+}
+.skillList3 li {
+    margin-right: 2rem;
+}
