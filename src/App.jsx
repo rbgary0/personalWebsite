@@ -25,7 +25,7 @@ function App() {
             <a className='hover:bg-neutral-600 px-2 py-1 rounded transition hover:cursor-pointer' href='#project'>Projects</a>
             <a className='hover:bg-neutral-600 px-2 py-1 rounded transition flex items-center gap-1 hover:cursor-pointer' href='https://www.linkedin.com/in/reagangary/' target='_blank' rel='noopener noreferrer'><FaLinkedin size={20} /></a>
             <a className='hover:bg-neutral-600 px-2 py-1 rounded transition flex items-center gap-1 hover:cursor-pointer ' href='mailto:reagangary14@gmail.com'><HiOutlineMail size={20} /></a>
-            <a className='hover:bg-neutral-600 px-2 py-1 rounded transition flex items-center gap-1 hover:cursor-pointer' href='/files/test.pdf' target='_blank'><HiOutlineDocumentText size={20} /></a>
+            <a className='hover:bg-neutral-600 px-2 py-1 rounded transition flex items-center gap-1 hover:cursor-pointer' href='/files/Reagan_Gary_Resume_2025.pdf' target='_blank'><HiOutlineDocumentText size={20} /></a>
           </div>
 
           <button
@@ -42,7 +42,7 @@ function App() {
             <a className='hover:bg-neutral-600 px-2 py-1 rounded transition hover:cursor-pointer' href='#project'>Projects</a>
             <a className='hover:bg-neutral-600 px-2 py-1 rounded transition flex items-center gap-1 hover:cursor-pointer' href='https://www.linkedin.com/in/reagangary/' target='_blank' rel='noopener noreferrer'><FaLinkedin size={20} /></a>
             <a className='hover:bg-neutral-600 px-2 py-1 rounded transition flex items-center gap-1 hover:cursor-pointer ' href='mailto:reagangary14@gmail.com'><HiOutlineMail size={20} /></a>
-            <a className='hover:bg-neutral-600 px-2 py-1 rounded transition flex items-center gap-1 hover:cursor-pointer' href='/files/test.pdf' target='_blank'><HiOutlineDocumentText size={20} /></a>
+            <a className='hover:bg-neutral-600 px-2 py-1 rounded transition flex items-center gap-1 hover:cursor-pointer' href='/files/Reagan_Gary_Resume_2025.pdf' target='_blank'><HiOutlineDocumentText size={20} /></a>
           </div>)}
       </nav>
       
